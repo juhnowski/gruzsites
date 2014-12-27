@@ -1,0 +1,267 @@
+# Webalizer V2.23-05 Incremental Data - 11/05/2013 23:54:43
+2013 11 5 23 54 43
+176 169 19 12 2 16 9335323 126 122 0
+12 2 26 2 5
+0 0 0 0 0 0
+55 52 2989447 10 42 41
+0 0 0 0 0 0
+65 64 3290799 9 42 41
+56 53 3055077 12 42 40
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 5 335130 5
+5 5 335130 5
+9 8 474183 7
+6 6 402156 6
+7 7 469182 7
+5 5 335130 5
+5 3 203900 4
+8 8 536208 8
+5 5 335130 5
+5 3 203900 3
+19 18 707741 7
+7 7 469182 7
+2 2 134052 2
+43 42 1378129 10
+5 5 335130 5
+2 2 134052 2
+7 7 469182 7
+4 4 268104 4
+3 3 201078 3
+5 5 335130 5
+4 4 268104 4
+5 5 335130 5
+3 3 201078 3
+7 7 469182 7
+0
+0
+0
+169
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/shadow.jpg
+1 4 753057133605429280 4324 0 0
+/images/favicon.png
+1 3 7813540889210747168 14958 0 0
+/images/footer.jpg
+1 4 2314963962328073226 1916 0 0
+/images/in3.png
+1 4 2335239970623027570 258064 0 0
+/images/in2.png
+1 4 3326506597116551200 234608 0 0
+/images/skidka.jpg
+1 4 2314885530818453536 96996 0 0
+/design2.css
+0 5 2314961733357628997 17950 0 0
+/images/logo.jpg
+1 4 7945871893895144787 1404 0 0
+/images/column.jpg
+1 4 7301190679904919584 1492 0 0
+/images/in1.png
+1 4 2336646253446983522 274228 0 0
+/images/main_photo.jpg
+1 4 7380952426005667941 41256 0 0
+/
+0 125 7018106897772607589 8378250 121 107
+# End Of Table - urls
+# -sites- (monthly)
+66.249.78.66
+0 1 0 1411 0 0
+-
+109.184.186.151
+0 12 12 304174 1 1383573109
+/
+5.10.83.9
+0 1 0 1411 0 0
+-
+213.180.206.197
+0 22 22 1474572 22 1383685246
+/
+95.108.245.252
+0 5 3 203900 3 1383531400
+/
+195.239.178.205
+0 3 3 201078 3 1383623028
+/
+5.166.212.236
+0 12 12 304174 1 1383572993
+/
+66.249.78.95
+0 1 1 3590 0 0
+-
+5.255.210.93
+0 40 40 2681040 36 1383695683
+/
+178.154.224.114
+0 24 24 1608624 24 1383691788
+/
+66.249.81.51
+0 1 1 67026 1 1383629785
+/
+95.79.145.126
+0 11 11 299188 1 1383656707
+/
+62.220.33.161
+0 12 12 304174 1 1383389564
+/
+66.249.78.74
+0 2 1 68437 1 1383618607
+/
+66.249.78.97
+0 1 0 1411 1 1383374329
+-
+66.249.78.55
+0 1 0 1411 0 0
+-
+66.249.78.79
+0 1 1 67026 1 1383643045
+/
+95.108.129.207
+0 24 24 1608624 24 1383692970
+/
+93.158.155.137
+0 2 2 134052 2 1383550992
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+5.10.83.9
+0 1 0 1411 0 0
+-
+213.180.206.197
+0 7 7 469182 7 1383685246
+/
+195.239.178.205
+0 1 1 67026 1 1383623028
+/
+66.249.78.95
+0 1 1 3590 0 0
+-
+5.255.210.93
+0 14 14 938364 12 1383695683
+/
+178.154.224.114
+0 8 8 536208 8 1383691788
+/
+66.249.81.51
+0 1 1 67026 1 1383629785
+/
+95.79.145.126
+0 11 11 299188 1 1383656707
+/
+66.249.78.74
+0 2 1 68437 1 1383618607
+/
+66.249.78.55
+0 1 0 1411 0 0
+-
+66.249.78.79
+0 1 1 67026 1 1383643045
+/
+95.108.129.207
+0 8 8 536208 8 1383692970
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.gruzvezet52.ru/
+0 42
+- (Direct Request)
+0 134
+# End Of Table - referrers
+# -agents- 
+Opera/9.80 (Windows NT 5.1; Edition Yx) Presto/2.12.388 Version/12.16
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71
+0 11
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon3v2)
+0 17
+Mozilla/5.0 (compatible; YandexMetrika/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/5.0 (compatible; Nigma.ru/3.0; crawler@nigma.ru)
+0 3
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (compatible; X11; Linux x86_64; Google-StructuredDataTestingTool; +http://www.google.com/webmasters/tools/richsni
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon3)
+0 23
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon1)
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 12
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon2)
+0 22
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots TEST)
+0 24
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

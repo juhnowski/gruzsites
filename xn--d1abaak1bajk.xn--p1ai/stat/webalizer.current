@@ -1,0 +1,258 @@
+# Webalizer V2.23-05 Incremental Data - 11/04/2013 23:36:10
+2013 11 4 23 36 10
+112 108 17 12 2 16 6182185 87 78 0
+11 2 16 2 4
+0 0 0 0 0 0
+65 64 3228060 12 41 38
+0 0 0 0 0 0
+47 44 2954125 11 46 40
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 3 201129 3
+2 2 134086 2
+4 4 268172 4
+2 2 134086 2
+2 2 134086 2
+7 7 469301 7
+2 2 134086 2
+5 4 269583 4
+18 18 706449 7
+1 1 67043 1
+16 16 572363 5
+5 4 206130 3
+3 3 201129 3
+6 6 402258 6
+2 2 134086 2
+5 5 335215 5
+4 4 268172 4
+2 2 134086 2
+4 4 268172 4
+6 4 270994 6
+2 2 134086 2
+6 6 402258 6
+2 2 134086 2
+3 3 201129 3
+0
+0
+0
+108
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/shadow.jpg
+1 2 753057133605429280 2162 0 0
+/images/favicon.png
+1 2 7813540889210747168 9972 0 0
+/images/footer.jpg
+1 2 2314963962328073226 958 0 0
+/images/in3.png
+1 2 2335239970623027570 129032 0 0
+/images/in2.png
+1 2 3326506597116551200 117304 0 0
+/images/skidka.jpg
+1 2 2314885530818453536 48498 0 0
+/design2.css
+0 3 2314961733357628997 10770 0 0
+/images/logo.jpg
+1 2 7945871893895144787 702 0 0
+/images/column.jpg
+1 2 7301190679904919584 746 0 0
+/images/in1.png
+1 2 2336646253446983522 137114 0 0
+/images/main_photo.jpg
+1 2 7380952426005667941 20628 0 0
+/
+0 85 7018106897772607589 5698655 77 63
+# End Of Table - urls
+# -sites- (monthly)
+212.117.184.185
+0 1 1 67043 1 1383571828
+/
+213.180.206.197
+0 15 15 1005645 15 1383608170
+/
+195.239.178.205
+0 2 2 134086 2 1383546424
+/
+46.17.44.50
+0 1 1 67043 1 1383379271
+/
+178.22.195.148
+0 12 12 304191 1 1383380033
+/
+5.255.210.93
+0 26 26 1743118 19 1383606084
+/
+178.154.224.114
+0 15 15 1005645 15 1383600619
+/
+91.215.188.101
+0 2 2 134086 2 1383599949
+/
+5.164.225.217
+0 1 1 67043 1 1383578434
+/
+62.220.33.161
+0 12 12 304191 1 1383389503
+/
+66.249.66.58
+0 1 0 1411 0 0
+-
+109.236.84.144
+0 3 1 69865 1 1383594367
+/
+193.169.234.5
+0 2 1 68454 1 1383552722
+/
+66.249.78.79
+0 1 1 67043 1 1383390404
+/
+95.108.129.207
+0 15 15 1005645 15 1383601006
+/
+93.158.155.137
+0 2 2 134086 2 1383577966
+/
+66.249.78.64
+0 1 1 3590 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+212.117.184.185
+0 1 1 67043 1 1383571828
+/
+213.180.206.197
+0 8 8 536344 8 1383608170
+/
+195.239.178.205
+0 1 1 67043 1 1383546424
+/
+5.255.210.93
+0 14 14 938602 10 1383606084
+/
+178.154.224.114
+0 7 7 469301 7 1383600619
+/
+91.215.188.101
+0 2 2 134086 2 1383599949
+/
+5.164.225.217
+0 1 1 67043 1 1383578434
+/
+109.236.84.144
+0 3 1 69865 1 1383594367
+/
+193.169.234.5
+0 2 1 68454 1 1383552722
+/
+95.108.129.207
+0 7 7 469301 7 1383601006
+/
+93.158.155.137
+0 1 1 67043 1 1383577966
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 88
+http://xn--d1abaak1bajk.xn--p1ai/
+0 22
+# End Of Table - referrers
+# -agents- 
+Opera/9.80 (Windows NT 6.1; Win64; x64; Edition Yx) Presto/2.12.388 Version/12.10
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon3v2)
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 3
+Mozilla/5.0 (compatible; openstat.ru/Bot)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+0 1
+Opera/9.80 (Windows NT 6.1; Edition Yx) Presto/2.12.388 Version/12.10
+0 1
+Mozilla/5.0 (compatible; Nigma.ru/3.0; crawler@nigma.ru)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+0 3
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon3)
+0 15
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 4.0.4; Oysters T34 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Safar
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon1)
+0 15
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon2)
+0 15
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots TEST)
+0 15
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

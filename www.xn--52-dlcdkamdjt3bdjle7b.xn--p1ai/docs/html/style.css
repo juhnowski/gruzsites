@@ -1,0 +1,126 @@
+/* Text */
+BODY {	background-image : url( "../assets/images/Background.jpg" );
+	background-color : rgb(184,184,184);
+	background-repeat : repeat-y;
+	background-position : 50% 0%;
+	color : rgb(51,51,51);
+	font-family : Arial;
+	font-size : 14px}
+
+.nof_SpartanSilverBanners1-Default {
+font-family:Georgia; font-size:26pt; color:rgb(108,108,108) 
+}
+
+.nof_SpartanSilverNavbar4-Regular {
+font-family:Verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(51,51,51) 
+}
+
+.nof_SpartanSilverNavbar5-Rollover {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(255,255,255) 
+}
+
+.nof_SpartanSilverNavbar6-Highlighted {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(255,255,255) 
+}
+
+.nof_SpartanSilverNavbar7-HighlightedRollover {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(180,180,180) 
+}
+
+.nof_SpartanSilverNavbar9-Regular {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(51,51,51) 
+}
+
+.nof_SpartanSilverNavbar10-Rollover {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(255,255,255) 
+}
+
+.nof_SpartanSilverNavbar11-Highlighted {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(255,255,255) 
+}
+
+.nof_SpartanSilverNavbar12-HighlightedRollover {
+font-family:verdana; font-size:10; font-weight:700; font-style:normal; color:rgb(51,51,51) 
+}
+
+
+P {
+	font-family: Arial,                        Helvetica,                        Geneva,                        Sans-serif;
+	font-size : 14px;
+	color : rgb(51,51,51);
+	line-height : 1.5em
+}
+
+.TextObject {
+	font-family: Arial,                        Helvetica,                        Geneva,                        Sans-serif;
+	font-size : 14px;
+	color : rgb(51,51,51)
+}
+
+.TextNavBar {
+	color: rgb(108,108,108);
+	font-family : Arial,                         Helvetica,                         Geneva,                         Sans-serif;
+	font-size : 14px
+}
+
+A:link {
+	color: rgb(108,108,108);
+	font-family : Arial,                         Helvetica,                         Geneva,                         Sans-serif;
+	font-size : 14px
+}
+
+A:visited {
+	font-family: Arial,                        Helvetica,                        Geneva,                        Sans-serif;
+	font-size : 14px;
+	color : rgb(180,180,180)
+}
+
+A:active {
+	font-family: Arial,                        Helvetica,                        Geneva,                        Sans-serif;
+	font-size : 14px
+}
+
+H1 {
+	font-family: Georgia,                         Palatino,                         "Times New Roman",                         Times,                         Serif;
+	color : rgb(108,108,108);
+	font-weight : lighter
+}
+
+H2 {
+	font-family: Georgia,                         Palatino,                         "Times New Roman",                         Times,                         Serif;
+	color : rgb(108,108,108)
+}
+
+H3 {
+	font-family: Georgia,                         Palatino,                         "Times New Roman",                         Times,                         Serif;
+	color : rgb(108,108,108);
+	font-weight : lighter
+}
+
+H4 {
+	color: rgb(108,108,108)
+}
+
+H5 {
+	color: rgb(108,108,108)
+}
+
+H6 {
+	color: rgb(108,108,108)
+}
+
+
+
+UL {
+	font-size: 14px;
+	font-family : Arial,          Helvetica,          Geneva,          Sans-serif
+}
+
+OL {
+	font-size: 14px;
+	font-family : Arial,          Helvetica,          Geneva,          Sans-serif
+}A:hover {
+	font-family: Arial,                        Helvetica,                        Geneva,                        Sans-serif;
+	font-size : 14px;
+	color : rgb(180,180,180)
+}
